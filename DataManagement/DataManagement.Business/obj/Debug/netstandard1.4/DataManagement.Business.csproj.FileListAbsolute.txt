@@ -11,3 +11,16 @@ E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagem
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.pdb
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard1.4\DataManagement.Business.csprojResolveAssemblyReference.cache
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Business.deps.json
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Business.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Business.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Business.Interfaces.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Entities.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Business.Interfaces.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard1.4\DataManagement.Business.csprojResolveAssemblyReference.cache
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard1.4\DataManagement.Business.AssemblyInfo.cs
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard1.4\DataManagement.Business.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard1.4\DataManagement.Business.pdb

@@ -7,3 +7,12 @@ E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagem
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Entities.dll
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\obj\Debug\netstandard1.4\DataManagement.Business.Interfaces.csprojResolveAssemblyReference.cache
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Business.Interfaces.deps.json
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Business.Interfaces.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Business.Interfaces.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Entities.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\obj\Debug\netstandard1.4\DataManagement.Business.Interfaces.csprojResolveAssemblyReference.cache
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\obj\Debug\netstandard1.4\DataManagement.Business.Interfaces.AssemblyInfo.cs
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\obj\Debug\netstandard1.4\DataManagement.Business.Interfaces.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Business.Interfaces\obj\Debug\netstandard1.4\DataManagement.Business.Interfaces.pdb

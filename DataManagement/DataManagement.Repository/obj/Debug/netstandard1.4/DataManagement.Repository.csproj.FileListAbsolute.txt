@@ -9,3 +9,14 @@ E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagem
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.dll
 E:\Projects\2016\Dec\31\DataMgtCoreAPI\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.deps.json
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Entities.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Entities.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard1.4\DataManagement.Repository.Interfaces.pdb
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard1.4\DataManagement.Repository.csprojResolveAssemblyReference.cache
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard1.4\DataManagement.Repository.AssemblyInfo.cs
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard1.4\DataManagement.Repository.dll
+D:\GitHub\DataMgtCoreAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard1.4\DataManagement.Repository.pdb
